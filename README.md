@@ -48,7 +48,7 @@ See example patches. Models are loaded by passing `load model_dir/timbremap` to 
 Prior to training models, use the `compute_melspecs.py` script to compute features from a directory of generated WAV files.
 
 Usage:  
-`python compute_melspecs.py [data_dir]`
+`compute_melspecs.py data_dir`
 
 Computes an N x F x T dataset of Mel-scaled spectrograms with F frequency bins and T time steps, exported to `data_dir/features.npy`. Examples should be in WAV format, contained in `data_dir/wavs`. 
 
