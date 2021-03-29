@@ -33,7 +33,7 @@ protobuf==3.6.1
 ptyprocess==0.6.0
 PyAudio==0.2.11
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.1
 python-dateutil==2.7.5
 python-osc==1.7.0
