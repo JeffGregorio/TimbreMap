@@ -24,7 +24,7 @@ Markdown==3.0.1
 matplotlib==3.0.2
 natsort==5.5.0
 numba==0.42.0
-numpy==1.16.0
+numpy==1.22.0
 parso==0.3.2
 pexpect==4.6.0
 pickleshare==0.7.5
