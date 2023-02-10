@@ -10,7 +10,7 @@ decorator==4.3.2
 gast==0.2.2
 grpcio==1.18.0
 h5py==2.9.0
-ipython==7.2.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.13.2
 joblib==0.13.1
